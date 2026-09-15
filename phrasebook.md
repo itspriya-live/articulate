@@ -9,13 +9,8 @@ Ask for "a phrase" anytime and the coach adds one here.
 
 ## Entries
 
-_(empty — your first phrase request will populate this)_
-
-<!--
-Example of the format (delete once real entries exist):
-
-### "Let me make sure I'm following you."
-- **When:** buying a moment to think, or checking you understood before you respond.
-- **Register:** neutral (works in meetings and casual chat).
-- **Alternatives:** casual — "Wait, so you mean…?" · formal — "If I understand you correctly…"
--->
+### "That's a good question — let me think about that for a second."
+- **When:** you need a beat before answering (interview question, a "why did you build it that way," a surprise question). Buys 3–4 seconds and sounds thoughtful, not stuck.
+- **Register:** neutral (interviews, meetings, casual chat).
+- **Alternatives:** casual — "Ooh, good one — give me a sec." · formal — "Let me take a moment to frame that properly."
+- **Key move:** after saying it, actually pause and stay silent. The silence replaces "um/like/so." It feels long to you, normal to the listener.
