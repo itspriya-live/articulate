@@ -14,3 +14,9 @@ Ask for "a phrase" anytime and the coach adds one here.
 - **Register:** neutral (interviews, meetings, casual chat).
 - **Alternatives:** casual — "Ooh, good one — give me a sec." · formal — "Let me take a moment to frame that properly."
 - **Key move:** after saying it, actually pause and stay silent. The silence replaces "um/like/so." It feels long to you, normal to the listener.
+
+### "And that's really it."
+- **When:** you've made your point and given your examples, and you feel the urge to keep adding clauses. Closes the thought firmly instead of trailing off.
+- **Register:** neutral (casual chat, meetings, interviews).
+- **Alternatives:** casual — "Yeah, that's pretty much it." · emphatic — "So that's where I land on it." · formal — "And that's the core of it."
+- **Key move:** the power isn't the words — it's the permission to stop. Say it, then go quiet. The silence after is the clean ending. Fixes trailing-off, which happens because stopping feels abrupt.

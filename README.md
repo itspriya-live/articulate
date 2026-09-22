@@ -25,4 +25,4 @@ Sibling project to [Wordsy](https://github.com/itspriya-live/wordsy) (vocabulary
 3. After each session, have it update `progress.md` and commit.
 
 ## Progress
-Day 1 — 2 conversation reps + first phrasebook entry. Current focus: ending sentences (one thought, full stop, next thought).
+Day 3 — 3 sessions, 6 conversation reps + 2 phrasebook entries. Current focus: one idea per sentence; when the thought is done, stop.
